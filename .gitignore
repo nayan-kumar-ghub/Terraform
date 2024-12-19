@@ -43,3 +43,6 @@ terraform.rc
 
 # Ignore PEM/PUB files
 *.pub
+devops-key
+AWS-key-01
+tf-ssh-key
